@@ -10,7 +10,7 @@ public class OperatorUnary {
         i = i + 1;                  //bisa dilihat i = i+1
         System.out.println(i);  //i tadi 2 sekarang 3
 
-        //Berlaku juga unntuk penambahan angka lain dan operator aritmatika lain
+        //Berlaku juga untuk penambahan angka lain dan operator aritmatika lain
         i+=3; //sama dengan i = i+3
         System.out.println(i);
 

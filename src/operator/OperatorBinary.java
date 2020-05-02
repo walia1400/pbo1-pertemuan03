@@ -9,4 +9,5 @@ public class OperatorBinary {
     int jumlahSks = 24;
     double indeksPrestasiKomulatif = 3.89;
 
+
 }
